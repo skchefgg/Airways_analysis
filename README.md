@@ -1,0 +1,2 @@
+# SPARK-AIRWAYS-Passenger-satisfaction-analysis-Power-BI
+The Power BI dashboard I created provides a comprehensive and insightful view of passenger satisfaction metrics, highlighting both quantitative and qualitative aspects. Through in-depth analysis of customer feedback, we can identify trends, patterns, and pain points that directly impact satisfaction levels. The dashboard offers a user-friendly interface that enables airlines to drill down into specific dimensions, such as flight punctuality, seat comfort, in-flight service, on board customer service, and more. 
